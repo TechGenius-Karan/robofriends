@@ -58,7 +58,7 @@ export const robots = [
     name: 'Gunika Malik',
     username: 'Moriah.Stanton',
     email: 'DontVote4Malik@gmail.com'
-  }
+  },
   {
     id: 11,
     name: 'Karan Mhetar',
