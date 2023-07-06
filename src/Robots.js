@@ -106,7 +106,7 @@ export const robots = [
     name: 'Soha Awekar',
     username: 'Delphine',
     email: 'AccentThickerThanJEETextbooks@gmail.com'
-  }
+  },
   {
     id: 19,
     name: 'Tvisha Tikarya',
