@@ -15,7 +15,7 @@ export const robots = [
     id: 3,
     name: 'Arnav Khokarale',
     username: 'Samantha',
-    email: '@gmail.com'
+    email: 'Maggi@gmail.com'
   },
   {
     id: 4,
@@ -51,7 +51,7 @@ export const robots = [
     id: 9,
     name: 'Eywa Shakyavanshi',
     username: 'Delphine',
-    email: 'RandomShortGirl@gmail.com'
+    email: 'IsGayButDoesentSlay@gmail.com'
   },
   {
     id: 10,
@@ -63,7 +63,7 @@ export const robots = [
     id: 11,
     name: 'Karan Mhetar',
     username: 'Delphine',
-    email: 'BestPersonToExist@gmail.com'
+    email: 'Besht@gmail.com'
   },
   {
     id: 12,
@@ -87,7 +87,7 @@ export const robots = [
     id: 15,
     name: 'Neev Gogia',
     username: 'Delphine',
-    email: '2ndBestPersonToExist@gmail.com'
+    email: 'TennisGirlKaLover@gmail.com'
   },
   {
     id: 16,
