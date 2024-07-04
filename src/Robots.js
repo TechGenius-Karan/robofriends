@@ -3,7 +3,7 @@ export const robots = [
     id: 1,
     name: 'Aanya Maheshwari',
     username: 'Dwarf',
-    email: 'Dwarf@gmail.com'
+    email: 'JustDwarf@gmail.com'
   },
   {
     id: 2,
@@ -27,7 +27,7 @@ export const robots = [
     id: 5,
     name: 'Daksh Sharma',
     username: 'Kamren',
-    email: 'WeirdForeigner@gmail.com'
+    email: 'NoShit@gmail.com'
   },
   {
     id: 6,
@@ -93,7 +93,7 @@ export const robots = [
     id: 16,
     name: 'Renuka Garg',
     username: 'Delphine',
-    email: 'UglyAssMidget@gmail.com'
+    email: 'MightHaveRabies@gmail.com'
   },
   {
     id: 17,
@@ -112,5 +112,17 @@ export const robots = [
     name: 'Tvisha Tikarya',
     username: 'Delphine',
     email: 'AlwaysDepressed@gmail.com'
+  },
+  {
+    id: 20,
+    name: 'Arhan Sinha',
+    username: 'Delphine',
+    email: 'GiantChild@gmail.com'
+  },
+  {
+    id: 21,
+    name: 'Shiv Bhatia',
+    username: 'Delphine',
+    email: 'OnTheSpectrum@gmail.com'
   },
 ];
